@@ -1,0 +1,17 @@
+baseurl: "/"
+url: "https://irina-nita.xyz"
+domain: "irina-nita.xyz"
+theme: jekyll-theme-console
+
+header_pages:
+  - index.md
+  - about.md
+
+
+style: light 
+
+footer: 'find me on <a href="https://github.com/irina-nita">github</a>'
+
+# Build settings
+markdown: kramdown
+  # remote_theme: b2a3e8/jekyll-theme-console
